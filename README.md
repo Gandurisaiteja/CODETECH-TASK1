@@ -1,10 +1,10 @@
 
-**Name:Ganduri Sai Teja 
-**Company:CODETECH IT SOLUTIONS 
-**ID:CT12WDS78 
-**Domain:MACHINE LEARNING 
-**Duration:Dec 2024-Mar 2025 
-**Mentor:Neela Santhosh Kumar
+**Name:**Ganduri Sai Teja 
+**Company:**CODETECH IT SOLUTIONS 
+**ID:**CT12WDS78 
+**Domain:**MACHINE LEARNING 
+**Duration:**Dec 2024-Mar 2025 
+**Mentor:**Neela Santhosh Kumar
 
 
 # Linear-Regression-Model-for-House-Price-Prediction
